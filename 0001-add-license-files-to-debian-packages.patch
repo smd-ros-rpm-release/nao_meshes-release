@@ -1,4 +1,4 @@
-From 836fba2093d5d229750aa64573b54263b7aac34c Mon Sep 17 00:00:00 2001
+From d77ba6aec79be09b4e5c40ec1f112b7b17028de6 Mon Sep 17 00:00:00 2001
 From: Vincent Rabaud <vincent.rabaud@gmail.com>
 Date: Tue, 26 Aug 2014 12:44:38 +0200
 Subject: [PATCH] add license files to debian packages
