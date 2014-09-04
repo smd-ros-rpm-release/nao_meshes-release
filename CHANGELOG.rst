@@ -2,6 +2,11 @@
 Changelog for package nao_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.5 (2014-09-04)
+------------------
+* new way of finding the architecture
+* Contributors: Vincent Rabaud
+
 0.1.4 (2014-09-03)
 ------------------
 * last try to fix 32 bit
