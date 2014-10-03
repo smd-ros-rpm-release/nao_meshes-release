@@ -2,6 +2,12 @@
 Changelog for package nao_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.7 (2014-10-03)
+------------------
+* update MD5 for 0.6.6 installer
+* add a changelog
+* Contributors: Vincent Rabaud, margueda
+
 0.1.5 (2014-09-04)
 ------------------
 * new way of finding the architecture
